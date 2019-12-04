@@ -2,7 +2,7 @@
 
 import numpy as np
 import pandas as pd
-
+import lambdata_lopez_isaac.class_example as ce
 #sample code
 
 #sample dataset
